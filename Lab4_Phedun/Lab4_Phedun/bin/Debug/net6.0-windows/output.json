@@ -1,0 +1,32 @@
+﻿{
+  "Title": "To the stars",
+  "PIP": "Дудченко С. М.",
+  "FacultyTitle": "ФКНК",
+  "Cathedra": "Комп'ютерного моделювання",
+  "ResponsibleRole": "Доцент",
+  "HelperRole1": "Асистент",
+  "HelperRole2": "Менеджер",
+  "PreparationInfo": {
+    "StartDate": "01.02.2022",
+    "EndDate": "24.02.2022"
+  },
+  "Time": "10:00",
+  "Place": "ВДНГ",
+  "Characteristics": "Концерт та вечірка"
+}
+{
+  "Title": "Свято студентів",
+  "PIP": "Симоненко В. А.",
+  "FacultyTitle": "ФІТ",
+  "Cathedra": "Обчислювальних систем",
+  "ResponsibleRole": "Куратор",
+  "HelperRole1": "Аспірант",
+  "HelperRole2": "Староста",
+  "PreparationInfo": {
+    "StartDate": "01.01.2020",
+    "EndDate": "31.12.2022"
+  },
+  "Time": "08:30",
+  "Place": "Не визначено",
+  "Characteristics": "Не визначено"
+}
